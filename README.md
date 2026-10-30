@@ -119,27 +119,10 @@ WHERE nome LIKE '%Croissant%' AND quantidade_estoque > 30;
 - Apenas os campos do cabeçalho são guardados no `localStorage`.
 
 </details>
-
----
-
-## 🌐 Publicar no GitHub Pages
-
-1. Renomeie o arquivo para `index.html` e suba para o repositório.
-2. Vá em **Settings → Pages**, escolha a branch `main` e a pasta `/ (root)`.
-3. A ferramenta ficará em `https://SEU-USUARIO.github.io/sql2docx/`.
-
----
-
-## ⚠️ Limitações
-
-- 🖼️ As imagens são incorporadas como PNG.
-- 🔢 O documento não tem numeração de páginas nem cabeçalho/rodapé.
-- ✂️ O `;` marca o fim da instrução. Um `;` dentro de um texto entre aspas pode dividir uma consulta em duas.
-
 ---
 
 <div align="center">
 
-Feito com ☕ para facilitar a entrega de atividades de SQL
+Feito para facilitar a entrega de atividades de SQL
 
 </div>
