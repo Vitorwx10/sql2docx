@@ -10,7 +10,7 @@
 ![Offline](https://img.shields.io/badge/funciona-offline-0B6E8A)
 ![Dependências](https://img.shields.io/badge/depend%C3%AAncias-zero-2EA44F)
 
-[✨ Recursos](#-recursos) · [🚀 Como usar](#-como-usar) · [🧩 Formatos](#-formatos-aceitos-para-a-tabela-de-resultado) · [🌐 GitHub Pages](#-publicar-no-github-pages)
+[✨ Recursos](#-recursos) · [🚀 Como usar](#-como-usar) · [🧩 Formatos](#-formatos-aceitos-para-a-tabela-de-resultado)
 
 </div>
 
